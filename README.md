@@ -25,7 +25,7 @@
 
 ## Packages Used
 
-- npm install react-router-dom
+- npm i moment
 - npm i @nivo/bar
 - npm i @nivo/core
 - npm i @nivo/line
